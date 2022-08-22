@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "raslos:block/firey_diamond_ore"
+  }
+}
